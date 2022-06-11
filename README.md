@@ -1,4 +1,3 @@
-# Seu-Destino
 # Português (PT-BR)
 Projeto desenvolvido a partir de conhecimentos adquiridos na Maratona Explorer da plataforma Rocketseat.
 Tecnologias usadas: HTML, CSS e JavaScript
