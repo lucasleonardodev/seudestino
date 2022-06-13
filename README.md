@@ -5,7 +5,7 @@ Tecnologias usadas: HTML, CSS e JavaScript
 
 Data do projeto: 11/06/2022 (DD/MM/YYYY)
 
-# Inglês (EN)
+# English (EN)
 Project developed from knowledge acquired in the "Maratona Explorer" from the Rocketseat platform.
 
 Technologies used: HTML, CSS and JavaScript
